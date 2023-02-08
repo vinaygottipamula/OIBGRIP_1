@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(Biryani.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #333;
+}
+
+p {
+    font-size: larger;
+}
+
+ul {
+    font-size: larger;
+}
+
+header {
+    background-color: #ffc107;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin-bottom: 10px;
+    color: #333;
+}
+
+header p {
+    color: #333;
+}
+
+main {
+    max-width: 960px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.7);
+}
+
+ul {
+    list-style-type: none;
+    padding: 0%;
+    margin: 0%;
+}
+
+.intro {
+    text-align: center;
+}
+
+.menu {
+    text-align: center;
+}
+
+.cta {
+    background-color: #ffc107;
+    padding: 20px;
+    text-align: center;
+}
+
+footer {
+    background-color: #ffc107;
+    left: 0%;
+    padding: 20px;
+    text-align: center;
+}
